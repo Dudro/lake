@@ -10,38 +10,46 @@ Cassidy
 
 List of Characters with Speaking Roles:
 
+{ Mitch }
 John Lake (JOHN): A bachelor and part-time farmer in his mid-thirties, notorious
 as a drunk and moocher at the Toronto Temperance Society. Perpetually tipsy,
 self-aggrandizing, fond of scheming, short-tempered, childish, and strangely
 endearing.
 
+{ Jack }
 Ike Nutana (IKE): Upstanding citizen, loving husband, and president of the
 Toronto Temperance Society. At first glance he is a boring and reasonable man,
 while perhaps a bit of a snob. A more vindictive and childish edge shows itself
 as his conflicts with John Lake intensify.
 
+{ Emily Migchaels }
 Eileen Nutana (EILEEN): Ike Nutana's steadfast and often neglected wife. She is
 a fervent prohibitionist and moralist, but perhaps too quick to compromise her
 values in service of making prairie life less boring.
 
+{ Peter }
 Barrabus Riversdale (BARRY): Better known as 'Blind Barry', he is the most
 colourful of the Saskatoon colonists. An elderly man who at least claims to be
 blind, he is a prolific drunk with insane tendencies and a questionable memory.
 May also be able to see the future.
 
+{ Emily Klatt }
 John G. Diefenbaker (DIEF): A perfectly innocent (and seemingly parentless)
 12-year-old boy who is a settler in the Nutana colony. He has a great admiration
 for John Lake, and no idea that he will grow up to be Canada's 13th Prime
 Minister. 
 
+{ 
 Judith Sutherland (JUDITH): The Vice-President of the Toronto Temperance
 Society. A highly critical and motivated person who envies Ike Nutana's
 leadership and believes they could do a much better job.
 
+{ Paige }
 John C. Drinkle (DRINKLE): Saskatoon's wealthiest businessman, as well as its
 only sane or sober citizen. He presents the voice of reason in Saskatoon's
 development, and is fittingly despised and mistreated by John Lake.
 
+{ Michael }
 Wilfrid Laurier (WILF): Canada's 7th Prime Minister and legendary statesman,
 portrayed as parody of current Prime Minister Justin Trudeau.
 
