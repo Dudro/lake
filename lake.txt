@@ -344,7 +344,7 @@ SCENE 4: During this scene, we follow DIEF back and forth between the two
 colonies (Nutana on stage left and Saskatoon on stage right). Each time DIEF
 crosses the stage he pours water over his head from the bucket labelled ?South
 Saskatchewan River.? At first, IKE is standing at a podium addressing his
-colonists, EILEEN by his side. The town sign reading ?Welcome to Nutana? is
+colonists, EILEEN by his side. The town sign reading 'Welcome to Nutana' is
 covered with a white sheet, and stands behind him.
 
 IKE: Ladies and gentlemen, thank you for your courage in making this momentous
@@ -353,7 +353,7 @@ moment to decide, together, upon a name for our beautiful colony! Do I hear any
 suggestions?
 
 JUDITH: (hand shoots up) As Vice-President of the Temperance Society, I was
-thinking it might be nice to name the place after ?Damascus?. It?s one of the
+thinking it might be nice to name the place after 'Damascus'. It?s one of the
 most ancient and beautiful cities in the world, and features heavily in the Holy
 Bible. We all know that Saint Paul experienced his great revelation and
 conversion to Christianity on the road to Damascus, and I thought it might be
@@ -369,7 +369,7 @@ any, um, other suggestions?
 
 JUDITH: Did you have an idea, Ike?
 
-IKE: Well, um? I was thinking maybe we might name the town ?Nutana?. You know?
+IKE: Well, um? I was thinking maybe we might name the town 'Nutana'. You know?
 after my wife!
 
 (EILEEN slaps IKE on the arm)
@@ -416,32 +416,33 @@ shoulder.
 
 JUDITH: President Nutana. The colony appears to be doing well, but the new
 residents are getting confused now that we have more than one road through town.
-I say, its high time we added some street names. I was thinking ?Central Avenue?
-for our main thoroughfare. What would you suggest?
+I say, its high time we added some street names. I was thinking 'Central Avenue'
+for our main thoroughfare. What would you suggest? { Straight ahead still }
 
 IKE: Well, I was thinking about that, and seeing as the colony is called
-?Nutana?, it might make it easier- or more familiar- for people if we called the
-main street ?Nutana Street?. I mean, I?m open to suggestions, but? fewer names
+'Nutana', it might make it easier- or more familiar- for people if we called the
+main street 'Nutana Street'. I mean, I'm open to suggestions, but? fewer names
 to remember?
 
 JUDITH: Well, um? it?s certainly? (spots DIEF in the corner) You there, young
-John! What do you think of the name ?Nutana Street??
+John! What do you think of the name 'Nutana Street'?
 
-DIEF: Ah geez, Mr. Sutherland, well I?m just a kid? but I heard there?s a lot of
-talk going on in Mr. Lake?s new colony across the river- they say it?s going to
-be the next New York City! And that sure sounds awful exciting!
+DIEF: Ah geez, Ms. Sutherland, well I'm just a kid! but I heard there?s a lot of
+talk going on in Mr. Lake's new colony across the river- they say it's going to
+be the next New York City! { To Ike } And that sure sounds awful exciting! { To
+the audience }
 
 IKE: That lout John Lake thinks that his depraved cesspool is going to be the
-next New York City?! Well, we?ll show him! I say we name our biggest street
-?Broadway?! That?ll teach them who the real New York of Saskatchewan is!
+next New York City?! { Incensed by this! } Well, we'll show him! I say we name our biggest street
+'Broadway'! { To himself, and no one } That'll teach them who the real New York of Saskatchewan is!
 
-JUDITH: Well, President. Nutana, that?s a nice thought? but we are a temperance
-colony. Do you really think it?s proper for us to name our main street after
-someplace as sinful and extravagant as Broadway? What if it encourages? theatre?
+JUDITH: Well, President. Nutana, that's a nice thought, but we are a temperance
+colony. Do you really think it's proper for us to name our main street after
+someplace as sinful and extravagant as Broadway? What if it encourages... theatre?
 
-IKE: Nonsense, it?ll never come to that, Judith. But, if you?d like, I suppose
+IKE: Nonsense, it'll never come to that, Judith. But, if you'd like, I suppose
 you could pay tribute to our principles- how about we name those other two
-streets, ?Temperance? and ?Colony?? Is that ?temperance colony? enough for you?
+streets, 'Temperance' and 'Colony'? Is that ?temperance colony? enough for you?
 We?ll just hit people right over the head with it!
 
 JUDITH: (taken aback) Yes, um, well I suppose that solves our naming problem.
@@ -557,20 +558,20 @@ IKE: Oh hey Judith, well, let?s hear it!
 
 JUDITH: Very well. So, we all know how John Lake and his disciples have been
 crossing the river every night, and sneaking down to our railyard to buy
-bootlegged liquor from the hobos.
+bootlegged liquor from the hobos. { Contempt }
 
-EILEEN: Of course! Everyone knows, they aren?t terribly secretive about it.
+EILEEN: Of course! Everyone knows, they aren't terribly secretive about it.
 
 JUDITH: Well, as Vice-President of this temperance colony, I was thinking, with
 all of that black market commerce going around, we may as well crack down and
-put a tax on it! I was running some calculations, and it seems to me that we
-could pull in a substantial amount of revenue for the colony.
+put a tax on it! { Excitedly, pause for a half-second longer } I was running some calculations, and it seems to me that we
+could pull in a _substantial_ amount of revenue for the colony.
 
 IKE: Judith, we?re a temperance colony! What kind of message would it send if we
 involved ourselves in the sale of alcohol?! I won?t have it!
 
-JUDITH: Well, it would just be a tax. We wouldn?t be officially endorsing the
-sale, and I highly doubt anyone but Mr. Lake?s followers would be buying
+JUDITH: Well, it would just be a tax. We wouldn't be *officially* endorsing the
+sale, and I highly doubt anyone but Mr. Lake's followers would be buying
 anything.
 
 EILEEN: How much money did you say this would be bringing in again?
@@ -581,7 +582,7 @@ IKE: My God!
 
 EILEEN: Is that enough for a transit system, Ike?
 
-IKE: That?s enough for ten transit systems! Eileen, give us a moment - Judith
+IKE: That's enough for ten transit systems! Eileen, give us a moment - Judith
 and I need to discuss some tax policy...
 
 DIEF is sneaking back to Saskatoon, BARRY stops him by placing a hand on his
@@ -672,7 +673,7 @@ to get across the river, quick and dry.
 IKE: A bridge?! And how exactly do you propose we afford a bridge?!
 
 JUDITH: Well, here are the projected profits for the first two months of the
-bar?s operation.
+bar's operation.
 
 IKE: My God.
 
