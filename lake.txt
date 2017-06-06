@@ -27,7 +27,7 @@ Eileen Nutana (EILEEN): Ike Nutana's steadfast and often neglected wife. She is
 a fervent prohibitionist and moralist, but perhaps too quick to compromise her
 values in service of making prairie life less boring.
 
-{ Peter }
+{ Lee }
 Barrabus Riversdale (BARRY): Better known as 'Blind Barry', he is the most
 colourful of the Saskatoon colonists. An elderly man who at least claims to be
 blind, he is a prolific drunk with insane tendencies and a questionable memory.
@@ -248,9 +248,9 @@ palpable.
 EILEEN: Four hours! Four hours for a train! I bet Moses and the Israelites could
 have crossed the whole Red Sea in less time than that! Don?t you figure?
 
-IKE: Come on Eileen, ?To every thing there is a season, and a time to every
-purpose under heaven.? And besides! Those Israelites had the Egyptians breathing
-down their necks! I?m sure you?d manage to get away a lot faster if you were
+IKE: Come on Eileen, 'To every thing there is a season, and a time to every
+purpose under heaven.' And besides! Those Israelites had the Egyptians breathing
+down their necks! I'm sure you'd manage to get away a lot faster if you were
 running from something that terrible!
 
 (JOHN stumbles on stage, trailed by an ensemble of drunks, BARRY and DRINKLE
@@ -274,7 +274,7 @@ DIEF: Does this mean that Mr. Lake gets to come West with us after all?
 
 EILEEN: Certainly not! (to JOHN)
 
-IKE: Now listen, John. I don?t know what you think you?re doing here, but I told
+IKE: Now listen, John. I don't know what you think you're doing here, but I told
 you very clearly? (cut off)
 
 JOHN: No! I told you, very clearibly! (slurring, still drunk!) I told you lousy
@@ -292,7 +292,7 @@ excited over the idea of John?s new colonizin? scheme- temperance?ll do just
 fine for me!
 
 IKE: John? where in heaven?s name did you dig up this sorry collection of
-drunks? The gutter??
+drunks? The gutter?!
 
 JOHN: Not all of them! I found Barry here scaling the walls of the Sisters of
 Mercy Convent down on Sullivan Street.
@@ -302,7 +302,7 @@ BARRY: There?s plenty of places look the same when you?re blind! (cackles)
 IKE: (shocked) So John, where exactly are you planning on setting up this
 crackpot colony of yours?
 
-JOHN: Uh? what?s it to you, Ike?! (too defensively) Planning on buying a house
+JOHN: Uh? what's it to you, Ike?! (too defensively) Planning on buying a house
 there?
 
 IKE: You really have no idea where you?re going, do you? Did you consider this
@@ -311,7 +311,7 @@ plan for longer than five minutes?
 JOHN: Pfft? listen to this guy! (appeals to all colonists) Sounds to me like
 somebody might be projecting their own insecurities into this situation. 
 
-IKE: (muttering) Yeah, I?m pretty sure it?s you, John.
+IKE: (muttering) Yeah, I'm pretty sure it?s you, John.
 
 JOHN: There he goes again! Where exactly are YOU planning to start YOUR
 temperance colony?
@@ -391,6 +391,8 @@ IKE: Well, um? you see? I did already make the sign? (sheepishly unveils
 DIEF crosses the river. John is standing on a stool, in front of soaking wet
 Saskatoon colonists.
 
+{ Quite unsure of himself, but putting on a brave face? }
+
 JOHN: Well, it was a cold swim, but here we are! { Drunk cold? } The western bank of the South
 Saskissippi River, and the site of Canada's newest, hippest and hottest
 temperance colony! But you know what they say: a rose without { by any other
@@ -406,8 +408,8 @@ BARRY: I thought it was named after York! In England!
 JOHN: (chuckles) Oh, Blind Barry. You know nothing about branding. See, New York
 is called New York, because New York, New York just rolls right off the tongue!
 It's irresistible! Which is why I think we should name our city after the region
-we're in - you know, go for that same vibe. So my friends, welcome? to Saskatoon,
-Saskatoon!
+we're in - you know, go for that same vibe. So, my friends - welcome: to Saskatoon,
+Saskatoon! { Pretty loud energetic shouting }
 
 DRINKLE: Shouldn't it be 'Saskatchewan, Saskatchewan'?
 
@@ -428,11 +430,11 @@ IKE: Well, I was thinking about that, and seeing as the colony is called
 main street 'Nutana Street'. I mean, I'm open to suggestions, but? fewer names
 to remember?
 
-JUDITH: Well, um? it?s certainly? (spots DIEF in the corner) You there, young
+JUDITH: Well, um? it's certainly? (spots DIEF in the corner) You there, young
 John! What do you think of the name 'Nutana Street'?
 
-DIEF: Ah geez, Ms. Sutherland, well I'm just a kid! but I heard there?s a lot of
-talk going on in Mr. Lake's new colony across the river- they say it's going to
+DIEF: Ah geez, Ms. Sutherland, well I'm just a kid! but I heard there's a lot of
+talk going on in Mr. Lake's new colony across the river - they say it's going to
 be the next New York City! { To Ike } And that sure sounds awful exciting! { To
 the audience }
 
@@ -444,10 +446,10 @@ JUDITH: Well, President. Nutana, that's a nice thought, but we are a temperance
 colony. Do you really think it's proper for us to name our main street after
 someplace as sinful and extravagant as Broadway? What if it encourages... theatre?
 
-IKE: Nonsense, it'll never come to that, Judith. But, if you'd like, I suppose
-you could pay tribute to our principles- how about we name those other two
-streets, 'Temperance' and 'Colony'? Is that ?temperance colony? enough for you?
-We?ll just hit people right over the head with it!
+IKE: Nonsense, it'll never come to that, Judith. But { REDACTED } I suppose
+you could pay tribute to our principles - how about we name those other two
+streets, 'Temperance' and 'Colony'? Is that 'temperance colony' enough for you?
+We'll just hit people right over the head with it!
 
 JUDITH: (taken aback) Yes, um, well I suppose that solves our naming problem.
 
@@ -482,22 +484,22 @@ JOHN: { Fuck you, Drinkle } Perfect! Six avenues! Here's what we're going to
 do - take the avenue furthest away from the river, and call it 1st Avenue! 
 Then we'll count 1,2,3,4,5, all the way to 6th Avenue, right on the riverbank!
 
-DRINKLE: Uh, that might work. But what if the city expands outwards? Do we add
-an Avenue Zero?
+DRINKLE: { Obsequious, deferent to John } Uh, that might work. But what if the city expands outwards? Do we add
+an Avenue Zero? { Leading John }
 
 JOHN: Ugh, God! You're always like this! Just trust me, Drinkle! If it makes you
 happy, we'll be even more future proof with the streets!
 
-DRINKLE: What?
+DRINKLE: What? { What does that actually mean? }
 
 JOHN: We'll number the streets too, { Experiencing a revelation, captivated by
 genius } but we'll start out with 21st Street right in the middle, and number 
 them out to both sides! That way we can have even more
 than 21 streets if we want to! Is there even a city on Earth with more than 21
-streets?? { There 'ain't even a city on Earth with more than 21 streets! }
+streets!? { There 'ain't even a city on Earth with more than 21 streets! }
 
-DRINKLE: Well, there's New York City. { Getting frustrated, and a little
-confused? } 
+DRINKLE: Well, there's New York City. { If you actually want an answer...
+Here's the answer: }
 
 JOHN: Shut up, Drinkle! Get out of here and make me some road signs!
 
@@ -512,7 +514,7 @@ BARRY: Well, I don't think there'll be any call for that! I wouldn't be
 surprised if old Barry Riversdale got a whole neighbourhood named after him one
 day!
 
-JOHN: That'd sure be a sight!
+JOHN: That'd sure be a sight! { Joking meanly }
 
 BARRY: I just came to tell ya, { A nasty secret, this is! } that folks is 
 spreading a lot of foul rumours about the colony! By the sounds of it, 
@@ -528,7 +530,7 @@ desk, upsetting his bottle) Oh no!
 
 DIEF sneaks across the river. IKE sits at desk, with EILEEN over his shoulder.
 
-EILEEN: Now, I?m not one to complain Ike, but things have gotten tough this
+EILEEN: Now, I'm not one to complain Ike, but things have gotten tough this
 first year out on the colony! I sure do miss our life in Toronto sometimes.
 
 IKE: Well, Eileen, it certainly is different. Nutana might be our little piece
@@ -595,9 +597,12 @@ and I need to discuss some tax policy...
 (DIEF is sneaking back to Saskatoon, BARRY stops him by placing a hand on his
 shoulder.)
 
+{ Dief peeking over her shoulder to make sure no one has seen him follow }
 { Coming up from behind and stage right of Dief, somehow being sneaky }
 
 BARRY: Now, where you do you think you're going, Young John?!
+
+{ Barry stage-right of Dief }
 
 DIEF: Gosh! Mr. Riversdale! How did you see me? Or know who I was? Are your eyes
 feeling better?
@@ -607,14 +612,17 @@ sees more than most!
 
 DIEF: Gosh!
 
+{ Come up to Dief to relay a secret! }
 BARRY: Now, have you been sneakin across that river to bootleg liquor again?!
 That's awful dangerous stuff you know!
 
+
 DIEF: Geez Mr. Riversdale, no way! I don't drink, I'm just a kid! I just like to
 come over to visit Mr. Lake from time to time. I sure do miss him over in
-Nutana!
+Nutana! { Jumping around }
 
-BARRY: Oh, a likely story! Now, I don't want to see you swimming in that river
+BARRY: Oh, a likely story! { Coming across Dief to get inbetween her and the
+river } Now, I don't want to see you swimming in that river
 again - not that I could see ya - so here! Have a sip of Barry's whisky and be on
 your way!
 
@@ -632,10 +640,12 @@ DIEF: What bridges, Mr. Riversdale?
 
 BARRY: Well, old Blind Barry gets a hunch every so often, and most of them turn
 out true! And just this morning, I was swimming across that river - never you
-mind why! and I had a hunch that one day they'd build so many bridges across
+mind why! { Prophecy here, coming down center-stage } and I had a hunch that one 
+day they'd build so many bridges across
 it, they'd come to call Saskatoon 'The City of Bridges'!
 
-DIEF: Gosh, that sure would be strange! I mean, so many other cities have lots
+DIEF: Gosh, that sure would be strange! { Coming down-stage next to Barry to
+protest } I mean, so many other cities have lots
 of bridges, it really wouldn't make us any different than most other places!
 Don't you reckon there'll be anything better happening in Saskatoon worth
 advertising?
@@ -689,9 +699,11 @@ IKE: My God.
 DIEF crosses the river. BARRY walks in the door to find JOHN slumped over desk,
 drinking again. JOHN chokes in surprise and hides the liquor.
 
+{ Barry entering from up-stage right, around through the door }
+
 BARRY: (Shouting) Mr. Lake! Are you in here?
 
-JOHN: Yes! I'm here! And geez Barry, what'd I tell you about yelling for me
+JOHN: { Startled } Yes! I'm here! And geez Barry, what'd I tell you about yelling for me
 every time you enter the room?
 
 BARRY: You said not to do it, Mr. Lake. But some say you can't teach an old dog
@@ -700,14 +712,17 @@ new tricks! Especially a blind dog!
 JOHN: I suppose that's true. So, what brings you around at this ungodly hour?
 
 BARRY: Well, you know I wouldn't normally come barging in at two { o'clock } in the
-afternoon, but there's been some awful commotion down by the river! Looks to me
+afternoon, { To audience }  but there's been some awful commotion down by the river! Looks to me
 like Ike Nutana and his namby-pamby teetotalers is building themselves a bridge!
+
+{ Quite interested in this news, getting out of his desk }
 
 JOHN: Blind Barry, you're saying you _saw_ them building a bridge?
 
+{ To John }
 BARRY: Course not! I'm blind as sin! But I could feel it in my bones!
 
-JOHN: Well that?s certainly interesting news. When do you figure they?ll be done
+JOHN: Well that's certainly interesting news. When do you figure they'll be done
 building it?
 
 BARRY: Well, if my trick knee's telling me right, I reckon they'll be done
@@ -722,9 +737,9 @@ poor citizens at an even faster rate! It's an epidemic! (drinks)
 BARRY: I'll drink to that! (drinks) What do you reckon we should do if they
 finish it?
 
-JOHN: Well Barry, if it comes to that, I want the two of us to be the first ones
-on the scene. We'll figure out what that sneak Nutana is up to, even if it means
-crossing that river, for the first time since we arrived!
+JOHN: Well Barry, if it comes to that, { Grim: "We'll be ready..." } I want the two of us to be the first ones
+on the scene. { With grandeur } We'll figure out what that sneak Nutana is up to, even if it means
+crossing that river, { -> losing face here } for the first time since we arrived! 
 
 (JOHN and BARRY cheers each other and drink)
 
@@ -770,7 +785,7 @@ DRINKLE: Hey there! Don?t you go slandering Mr. Lake?s name like that!
 JOHN: Shut up, Drinkle! This doesn?t involve you! Now listen! Ike, Eileen, this
 guy?
 
-JUDITH: It?s me, Judith Sutherland. From the Temperance Society. We?ve known
+JUDITH: It's me, Judith Sutherland. From the Temperance Society. We?ve known
 each other for ten years!
 
 JOHN: And it only took you about five minutes to stab me in the back though,
