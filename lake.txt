@@ -392,7 +392,7 @@ DIEF crosses the river. John is standing on a stool, in front of soaking wet
 Saskatoon colonists.
 
 { Quite unsure of himself, but putting on a brave face? }
-
+{ TODO: pacing and blocking here for John }
 JOHN: Well, it was a cold swim, but here we are! { Drunk cold? } The western bank of the South
 Saskissippi River, and the site of Canada's newest, hippest and hottest
 temperance colony! But you know what they say: a rose without { by any other
@@ -405,7 +405,7 @@ were in!
 
 BARRY: I thought it was named after York! In England!
 
-JOHN: (chuckles) Oh, Blind Barry. You know nothing about branding. See, New York
+JOHN: (chuckles) Oh, Blind Barry. You know { LITERALLY } nothing about branding. See, New York
 is called New York, because New York, New York just rolls right off the tongue!
 It's irresistible! Which is why I think we should name our city after the region
 we're in - you know, go for that same vibe. So, my friends - welcome: to Saskatoon,
@@ -474,9 +474,9 @@ after important figures in Canadian history, like MacDonald, or Cartier, or
 Tecumseh?
 
 JOHN: That's a terrible idea! Why would you even think that's a good idea?
-Listen Drinkle - Saskatoon _is_ the next New York City. Hashtag Boomtown! We're
-future proof! No named streets, just numbers! Here's what we'll do - how many
-avenues do we have?
+Listen Drinkle { I pity you, I really do. } - Saskatoon _is_ the next New York 
+City. Hashtag Boomtown! We're future proof! No named streets, just numbers! 
+Here's what we'll do - how many avenues do we have?
 
 DRINKLE: Six.
 
@@ -623,8 +623,8 @@ Nutana! { Jumping around }
 
 BARRY: Oh, a likely story! { Coming across Dief to get inbetween her and the
 river } Now, I don't want to see you swimming in that river
-again - not that I could see ya - so here! Have a sip of Barry's whisky and be on
-your way!
+again - not that I could see ya - so here! Have a sip of Barry's whisky {
+hwhis-key } and be on your way!
 
 DIEF: Are you sure?
 
