@@ -1200,8 +1200,10 @@ EILEEN, DIEF and JUDITH on the other. JUDITH and BARRY walk to the centre of the
 bridge.
 
 JUDITH: Good evening, Mr. Riversdale. (they shake hands) { Struggle to find his
-hand } { Barrabus counters to downstage } Traditionally, the seconds in an armed duel will meet beforehand to 
-attempt to defuse the situation. In fact, most duels are settled this way, and do not actually come to
+hand } { Barrabus counters to downstage } Traditionally, the seconds in an 
+armed duel will meet beforehand to 
+attempt to defuse the situation. In fact, most duels are settled this way, 
+and do not actually come to
 violence. I think we can both agree that this issue with the cornerstone is
 trivial, and we two can resolve this as sensible people without any of this
 foolishness. { No exclamation }
@@ -1219,8 +1221,8 @@ Barry is a peaceful soul, and if we had my way I figure we'd call this thing off
 and talk things over! But, if I'm anything other than peaceful, I'm loyal! And
 blind! { Judith here is having her optimism fall away to determined }
 
-JUDITH: { Resigned, turned away } That is unfortunate. { turn back } Are you still prepared to act as Mr. Lake's second,
-should he be indisposed?
+JUDITH: { Resigned, turned away } That is unfortunate. { turn back } o
+Are you still prepared to act as Mr. Lake's second, should he be indisposed?
 
 BARRY: Ready as a fox!
 
@@ -1271,30 +1273,32 @@ JOHN: Damn it! My foot! I shot my foot! Oh god, it really hurts!
 
 IKE: John, you damned fool, what are you doing? Get up and fight!
 
-JOHN: I can?t! I?m shot!
+JOHN: I can't! I'm shot!
 
 EILEEN: Does that mean the duel is over?
 
-JOHN: No! That?s why we have seconds, Eileen! Pay attention! Blind Barry will
+JOHN: No! That's why we have seconds, Eileen! Pay attention! Blind Barry will
 have to fight Ike instead!
 
 IKE: What?!
 
-BARRY: I?ll do it!
+BARRY: I'll do it!
 
 JOHN: Drinkle! Make yourself useful and drag me out! (DRINKLE hurries over, and
 awkwardly drags JOHN off the bridge. BARRY walks up to IKE.)
 
-BARRY: Now listen, Mr. Nutanner! I?m not a man of violence, but I?m awfully
-loyal to my old friend John over there. And there?s those who say I?m the
-sharpest shot this side of the St. Lawrence! I?ve got a nasty feeling in my old
-trick knee tonight, and I expect you?re about to die a nasty death by gunshot!
-On this very bridge. Now, if I was you, I?d take heed of Old Blind Barry, and
-scoot!
+{ Strange motivation }
 
-IKE: Listen, Barry. I?m not interested in your strange prophecies. But I?m also
+BARRY: Now listen, Mr. Nutanner! I'm not a man of violence, but I'm awfully
+loyal to my old friend John over there. And there's those who say I'm the
+sharpest shot this side of the St. Lawrence! I've got a nasty feeling in my old
+trick knee tonight, and I expect { reckon' } you're about to die a nasty 
+death by gunshot! On this very bridge. Now, if I was you, I'd take heed of Old 
+Blind Barry, and scoot!
+
+IKE: Listen, Barry. I'm not interested in your strange prophecies. But I'm also
 not interested in killing you tonight, in what would be a very unfair fight. The
-duel is off. I?m going home.
+duel is off. I'm going home.
 
 JOHN: See that guys! Ike Nutana is such a yellow-bellied coward, that he?s
 scared to face an old, blind man in a gunfight! Chicken!
@@ -1305,7 +1309,7 @@ JOHN: (chicken noises)
 
 JUDITH: Well Ike, you did make an agreement?
 
-IKE: Fine! I?ll do it. 10 paces, Mr. Riversdale.
+IKE: Fine! I'll do it. 10 paces, Mr. Riversdale.
 
 (they line up back to back, and then walk ten paces, counted aloud. On ten, they
 both turn, and fire simultaneously. IKE drops to the ground, clutching his
@@ -1317,9 +1321,9 @@ BARRY: Did I hit him?!
 
 JOHN: You sure did, you blind son of a gun!
 
-JUDITH: President Nutana! You?re bleeding heavily! This doesn?t look good!! 
+JUDITH: President Nutana! You're bleeding heavily! This doesn't look good!! 
 
-IKE: It doesn?t feel too good either, Judith. I think I?m going to die on this
+IKE: It doesn't feel too good either, Judith. I think I'm going to die on this
 bridge, just like Blind Barry predicted.
 
 JUDITH: (holding out three fingers) Don?t say that! How many fingers am I
@@ -1335,9 +1339,9 @@ DRINKLE: Just one half?
 IKE: Yes, I know it?s stupid, but it?s just a hallucination. No one would ever
 actually put lights up on just one side of the bridge.
 
-BARRY: I suppose we?ll see about that!
+BARRY: I suppose we'll see about that!
 
-IKE: Don?t worry about that now. John Lake! I don?t know how you did it, but you
+IKE: Don't worry about that now. John Lake! I don?t know how you did it, but you
 finally bested me. The colony of Nutana is in your hands now, and I expect that
 now that our two towns are united, they?ll grow up to be the greatest city in
 Saskatchewan. I want you to promise me one thing, before I die, John. One final
@@ -1387,15 +1391,15 @@ speaking directly to the audience.
 BARRY: Well, how do you like that? That's the whole story, as best as I can
 recall it. And some fine acting, if I do say so myself! Now, old Judith
 Sutherland did end up starting her own city, with a sensibly named
-Central Avenue and { ooh! } a very successful Sutherland Bar - unfortunately, she also died
-a painful death death of typhoid fever! But John Lake went on to do a fine job
-{ John Lake, though } wen on to do ...
-of the city's transit system, all by himself! 'Course, even he's passed on now.
-Ninety years ago already, they say! { Now it's just ... } And it's just Blind Barry left to tell the
-story. So you go {! - } and tell your school teachers you know the _real_ truth now, from
-someone who seen it! And if they argue with you, you just send 'em down here and
-old Barry will straighten them out himself { Possibly get dark and threatening
-there at the end }! { Happy go lucky again } Tickets are $12.50 apiece, { Nice
-and slow here } and I'll be here all week! (chuckles and drinks) 
+Central Avenue and { ooh! } a very successful Sutherland Bar - unfortunately,
+she also died a painful death death of typhoid fever! But John Lake went on to 
+do a fine job { John Lake, though } went on to do ... of the city's transit 
+system, all by himself! 'Course, even he's passed on now. Ninety years ago already, they say! { Now it's just ... } And it's just Blind Barry left to tell the
+story. So you go {! - } and tell your school teachers you know the _real_ truth 
+now, from someone who seen it! And if they argue with you, you just send 'em 
+down here and old Barry will straighten them out himself { Possibly get dark 
+and threatening there at the end }! { Happy go lucky again } Tickets are 
+$12.50 apiece, { Nice and slow here } and I'll be here all week! (chuckles and 
+drinks) 
 
 - 2 -
