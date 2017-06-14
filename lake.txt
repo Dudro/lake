@@ -93,10 +93,10 @@ Territories.
 
 { Ike is center-stage.  Eileen, Judith, Drinkle, and Dief stand stage left. }
 
-IKE: Ladies and gentlemen, I, President Ike Nutana, call this meeting of the
-Toronto Temperance Society to order. Thank you for joining us this fine morning,
+IKE: { Wrapping a gavel } Ladies and gentlemen, I, President Ike Nutana, call this meeting of the
+Toronto { Torana } Temperance Society to order. Thank you for joining us this fine morning,
 as we gather to depart westward, to soberly find our fortunes in the uncharted
-wilderness of Western Canada. Our train will be departing in one hour, at four
+wilderness of { epicly } Western Canada. Our train will be departing in one hour, at four
 o'clock AM. Regrettably, it seems that one member of our flock has wandered
 further astray, and may not be with us to depart this morning. { Raising his
 hands to assure his flock } I don't believe a
@@ -114,7 +114,7 @@ decency? { Again, the flock }
 { Dief waking up here }
 
 JUDITH: President Nutana, I must disagree. As Vice-President of this society I
-have taken note of Mr. Lake's behaviour over the last nine years. He comes in
+have taken note { standing with her hand on her hips } of Mr. Lake's behaviour over the last nine years. He comes in
 here every week stinking of gin, saying he's sworn off the drink, eats all of
 our cookies and juice, and then stumbles off to the bar again!
 
@@ -136,11 +136,11 @@ IKE: John. We weren't expecting to see you... { Sad? Worried? }
 JOHN: { Only faltering momentarily } Well, I'm here now, that's for sure.
 Luggage and everything. { Leaning on Ike's podium, stage right } (raises
 arrangement of pots/pans/assorted crap). (squints, noticing  watch) Okay, so I guess I
-might be a few minutes late... but you know how it is (nudges Ike) { A bit of a
+might be a few minutes late... but you know how it is { How do we nuudge!?! }(nudges Ike) { A bit of a
 chuckle here } I mean,
 pioneering is going to be hard work, so I figure, may as well get well rested. I
 just had the longest and most serenest night of sleep in my life. Guess I
-overslept by a couple of winks (winks at Ike).
+overslept by a couple of winks (winks at audience).
 
 EILEEN: { Stage left, appealing to John on his other side }
  Did you have that long night of sleep in a tub of whisky, John? Because
@@ -198,7 +198,7 @@ After all we've been through?
 EILEEN: 'This guy' is my husband, and if I'd had my way you would have been out
 of here years ago.
 
-JOHN: Judith? You're with me, right?
+JOHN: Judith? You're with me, right? { options are running out here }
 
 JUDITH: I certainly am not!
 
@@ -206,7 +206,7 @@ JUDITH: I certainly am not!
 
 JOHN: (mimes a dagger being driven into his back) Whoa? that's some low-down,
 dirty stuff right there. (turns and gestures to DIEF) I mean, and you had to do
-it in front of this innocent child?
+it in front of this innocent child? { Using Dief as a prop again }
 
 IKE: Listen John, I'm only going to say it once more. This poor boy is going to
 be far better off without a man of your ilk planting sinful notions in his head.
@@ -217,7 +217,7 @@ to make it - no man like you would *ever* cut it out on the Prairie!
 (JOHN is silent for a moment)
 
 JOHN: Alright, alright {...} aaaalright. I see how it is. I see how you people treat
-your friends. But you know what? { Really trying to look the underdog, here }
+your friends. But you know what? { quieter } { Really trying to look the underdog, here }
  (lets it hang awkwardly long) I said, YOU KNOW
 WHAT?
 
@@ -233,7 +233,7 @@ ever saw! Lake, OUT!
 
 (JOHN turns dramatically, slams door)
 
-DIEF: Geez Mr. Nutana. Do you think we'll ever see him again?
+DIEF: { sniffles } Geez Mr. Nutana. Do you think we'll ever see him again?
 
 IKE: I don't rightly know son, I don't rightly know. (shakes head and glances at
 watch) Well, ladies and gentlemen, we'd best be on our way to the train station.
@@ -357,16 +357,18 @@ Saskatchewan River.' At first, IKE is standing at a podium addressing his
 colonists, EILEEN by his side. The town sign reading 'Welcome to Nutana' is
 covered with a white sheet, and stands behind him.
 
+{ Judith, Ike behind the podium, and Eileen from center-stage to right }
 IKE: Ladies and gentlemen, thank you for your courage in making this momentous
 journey West! There is much work to be done, but for now I would like take a
 moment to decide, together, upon a name for our beautiful colony! Do I hear any
 suggestions?
 
-JUDITH: (hand shoots up) As Vice-President of the Temperance Society, I was
+JUDITH: (hand shoots up) { Strutting out to lecture the audience } 
+ As Vice-President of the Temperance Society, I was
 thinking it might be nice to name the place after 'Damascus'. It?s one of the
-most ancient and beautiful cities in the world, and features heavily in the Holy
-Bible. We all know that Saint Paul experienced his great revelation and
-conversion to Christianity on the road to Damascus, and I thought it might be
+most ancient and beautiful cities in the world, and features heavily in the _Holy
+Bible_. We all know that Saint Paul experienced his great revelation and
+conversion to Christianity on the road to Damascus, and I thought it _might_ be
 nice to think that all of the colonists who journey out here might also find
 God?s salvation ?on the road to Damascus?.
 
@@ -548,13 +550,13 @@ EILEEN: Like a working public transportation system! Toronto?s was so nice, even
 last year in 1904 it was so easy to get around without a vehicle!
 
 IKE: Well, that sort of thing comes with time. So long as I?m in charge, we
-should be able to invest in something like that in a few year?s time.
+should be able to invest in something like that in a few year?s.
 
 EILEEN: Well I certainly hope so! Can you imagine if we just forgot to invest
 early-on in a viable transit system, and completely neglected our transportation
 infrastructure? Good luck being New York City then!
 
-IKE: Well, I suppose that?s true.
+IKE: Well, I suppose that's true.
 
 EILEEN: And remember how we always used to go see the Maple Leafs play on the
 weekend back in Toronto? How long do you think it?ll be before we get a
@@ -566,7 +568,7 @@ else would they go? Regina!? (laughs)
 EILEEN: Ugh, it?s just so frustrating! I wish our little colony could afford
 those things now!
 
-(enter JUDITH)
+(enter JUDITH) { Stage right-ish }
 
 JUDITH: Pardon me, President Nutana, Mrs. Nutana. I have an important idea that
 must be discussed.
@@ -576,6 +578,8 @@ IKE: Oh hey Judith, well, let?s hear it!
 JUDITH: Very well. So, we all know how John Lake and his disciples have been
 crossing the river every night, and sneaking down to our railyard to buy
 bootlegged liquor from the hobos. { Contempt }
+
+{ Eileen coming to Ike's side }
 
 EILEEN: Of course! Everyone knows, they aren't terribly secretive about it.
 
@@ -624,7 +628,6 @@ DIEF: Gosh!
 BARRY: Now, have you been sneakin across that river to bootleg liquor again?!
 That's awful dangerous stuff you know!
 
-
 DIEF: Geez Mr. Riversdale, no way! I don't drink, I'm just a kid! I just like to
 come over to visit Mr. Lake from time to time. I sure do miss him over in
 Nutana! { Jumping around }
@@ -666,16 +669,17 @@ desk, looking defeated.
 IKE: For the last time, I won't have it! We are not building a bar in our
 temperance colony!
 
-JUDITH: President Nutana, consider that?
+JUDITH: President Nutana, consider that { this isn't going to be... }
 
-IKE: No! I won't hear it! I don't care how much money the liquor tax is bringing
-in! And yes, I know, it's a lot of money! I don't care that it's only the damned
+IKE: No! I won't hear { have } it! I don't care how much money the liquor tax is bringing
+in! And yes, I know, it's a lot of money! I don't care that it's only the {
+pause } damned
 drunks from Saskatoon who are buying the liquor! We are a temperance colony!
 Temperance colonies do not operate bars! Not even John Lake's so-called
 temperance colony has gone that far!
 
-EILEEN: Ike, I know what Judith is saying sounds a little backwards. But you
-should hear him out. Look at all the good the liquor tax has done already! We're
+EILEEN: { Feminine charm } Ike, I know what Judith is saying sounds a little backwards. But you
+should hear her out. Look at all the good the liquor tax has done already! We're
 well on our way to having an affordable and accessible transit system. Just
 imagine the good we could do if we sold the liquor directly instead of just
 taxing it!
@@ -702,7 +706,7 @@ IKE: A bridge?! And how exactly do you propose we afford a bridge?!
 JUDITH: Well, here are the projected profits for the first two months of the
 bar's operation.
 
-IKE: My God.
+IKE: My God. { Sells himself out }
 
 DIEF crosses the river. BARRY walks in the door to find JOHN slumped over desk,
 drinking again. JOHN chokes in surprise and hides the liquor.
