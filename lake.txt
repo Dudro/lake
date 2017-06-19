@@ -843,29 +843,32 @@ would accept our hospitality, and learn about what makes Nutana shine!
 
 Sincerely, Mayor Ike Nutana.
 
-WILF: Dear Mayor Nutana. Perhaps ?Wilf? is a little too informal. As it happens,
-I will be traveling to Saskatchewan in two week?s time to celebrate its
-incorporation as a province. These are important times! New provinces! Women?s
-suffrage! I mean, it?s 1915! (spreads arms in a Trudeau-esque fashion)
-Unfortunately, we have already decided upon your neighbour Regina as the
-capital, but hey, it wasn?t my idea. Perhaps we can find you a nice university
-or something. I look forward to meeting you. Sunny ways! Wilfred Laurier.
+WILF: Dear Mayor Nutana. Perhaps 'Wilf' is a little too informal. As it happens,
+I will be traveling to Saskatchewan in two week's time to celebrate its
+incorporation as a province. { Pause here to contemplate the profundify of the
+following phrase. } These are important times! New provinces! Women's
+suffrage! I mean, it's 1915! (spreads arms in a Trudeau-esque fashion)
+{ Try quickly and matter-of-fact-ly } Unfortunately, we have already decided 
+upon your neighbour Regina as the capital, but hey, it wasn't my idea. Perhaps 
+we can find you a nice university or something. I look forward to meeting you. 
+Sunny ways! Wilfred Laurier.
 
-IKE: Dear Wilfred. This is fantastic news. I?ve found a spot of land next to the
+IKE: Dear Wilfred. This is fantastic news. I've found a spot of land next to the
 river that is just begging for a university to be built on it. I would recommend
 bringing with you a very large, engraved cornerstone with which we can begin
 construction. We will make a whole afternoon of it. My wife Eileen will do up
 some baking. Best wishes, Mayor Ike Nutana. P.S. I have been to Regina and I do
 not think you should make it the capital. Have you seen it before?
 
-WILF: Greetings, Mayor Nutana. If it?s not too much trouble, ?Wilfred? is still
-a touch too informal. I am the Prime Minister, I suppose. I don?t entirely
+WILF: { Thinking of what how to respond to this weirdo. } Greetings, Mayor 
+Nutana. If it's not too much trouble, 'Wilfred' is still
+a touch too informal. I am the Prime Minister, I suppose. I don't entirely
 understand your preoccupation with this large cornerstone, but rest assured I
 will set one of my less useful cabinet ministers around to making one. I will be
 departing West shortly- do you have any important advice on how to locate your
 colony? Sunny Ways! Prime Minister Laurier.
 
-IKE: Wilfy, old boy! Great to hear from you! Nutana is very easy to locate. It?s
+IKE: Wilfy, old boy! Great to hear from you! Nutana is very easy to locate. It's
 just at the end of the current railway line, right on the river bank, next to
 the lovely new bridge. Please be advised that on the opposite side of the river
 is a colony named Saskatoon, which is a despicable backwater teeming with
@@ -878,86 +881,88 @@ drunks. Safe travels! Your buddy, Ike.
 SCENE 7: WILF arrives in Nutana outside the Victoria Bar. BARRY is sitting
 beside the door, very drunk and nursing a bottle.
 
-WILF: Excuse me sir! I?ve just gotten off of my train- somehow we seem to have
+WILF: Excuse me sir! I've just gotten off of my train- somehow we seem to have
 arrived four hours early! I was wondering if you could point me in the right
 direction?
 
-BARRY: (chuckles) Well, I suppose that all depends on what you?re trying to
-find! The bar?s right here, mister!
+BARRY: (chuckles) Well, I suppose that all depends on what you're trying to
+find! The bar's right here, mister!
 
-WILF: Ah, I see. I was warned about this area. I?m looking for the temperance
-colony, which should be just across the river. I?m to have a meeting with their
+WILF: Ah, I see. I was warned about this area. I'm looking for the temperance
+colony, which should be just across the river. I'm to have a meeting with their
 mayor.
 
-BARRY: You don?t say?! Why, it so happens that I?m a close personal friend of
+BARRY: You don't say?! Why, it so happens that I'm a close personal friend of
 the mayor! You just stick with me, and old Blind Barry will show you the way!
 
-WILF: Oh, well that?s very... thoughtful of you. Are you sure you?ll be able to
-um? see the way, Blind Barry?
+WILF: Oh, well that's very... thoughtful of you. Are you sure you'll be able to
+um... see the way, Blind Barry?
 
-BARRY: Well, I may be blind, but I?ve got a keen sense of direction!
+BARRY: Well, I may be blind, but I've got a keen sense of direction!
 
 (BARRY and WILF walk across the river to Saskatoon, and knock on JOHN?s door.)
 
 JOHN: What now?!
 
-BARRY: We?ve got visitors here, Mr. Mayor! Someone who wants to meet you?
+BARRY: We've got visitors here, Mr. Mayor! Someone who wants to meet you?
 
 JOHN: Who is it?!
 
-BARRY: I can?t say for certain, but he?s dressed awful expensive, and he smells
+BARRY: I can't say for certain, but he's dressed awful expensive, and he smells
 like a real gentleman! Could be some kind of movie star or automobile salesman!
 
-JOHN: (walks outside) Well, you weren?t lying. So then, what?s the big idea,
-slick? Looking to buy some kind of business deal? You?re probably here to talk
-to Drinkle, aren?t you? You two can have a nice drink together and laugh about
-how goddamn rich you are?. DRINKLE! Get over here! One of your hoity-toity
+JOHN: (walks outside) Well, you weren't lying. So then, what's the big idea,
+slick? Looking to buy some kind of business deal? { Let expression drop } 
+You're probably here to talk
+to Drinkle, aren't you? You two can have a nice drink together and laugh about
+how goddamn rich you are!. DRINKLE! Get over here! One of your hoity-toity
 friends from finishing school is here to see you!
 
 (DRINKLE rushes out.)
 
-DRINKLE: Mr. Lake! Barry! Mr. oh? oh my! Mr. Prime Minister! It?s an honour,
+DRINKLE: Mr. Lake! Barry! Mr. - oh? oh my! Mr. Prime Minister! It's an honour,
 sir! What are you doing so far West??
 
-WILF: Oh, hello! Well, I?m sorry to have... surprised you. I?m here touring
-Western Canada, before Saskatchewan is incorporated as a province. I?ve been
+WILF: Oh, hello! Well, I'm sorry to have... surprised you. I'm here touring
+Western Canada, before Saskatchewan is incorporated as a province. I've been
 corresponding with the mayor of your town for several months now, and the place
 looks just as lovely as he described. 
 
-DRINKLE: Oh, it?s so kind of you to say so! Why don?t you leave your bags inside
+DRINKLE: Oh, it's so kind of you to say so! Why don't you leave your bags inside
 the house here, and we can show you around town!
 
 WILF: Oh, why thank you! (goes inside house)
 
-DRINKLE: Mr. Lake! What was that all about?! You?ve been exchanging letters with
-the Prime Minister? This is enormous! Why didn?t you tell us he was coming?
+DRINKLE: Mr. Lake! What was that all about?! You've been exchanging letters with
+the Prime Minister? This is enormous! Why didn't you tell us he was coming?
 
-JOHN: Well, you know how it goes. I mean, I didn?t think much of it at the time-
-he?s really just another friend to me. And to tell you the truth, I?d nearly
+JOHN: Well, you know how it goes. I mean, I didn't think much of it at the time-
+he's really just another friend to me. And to tell you the truth, I'd nearly
 forgotten about sending all those letters.
 
-DRINKLE: Mr. Lake. You didn?t send any letters, did you?
+DRINKLE: Mr. Lake. You didn't send any letters, did you?
 
-JOHN: Well, uh? not that I can recall. But he?s here, isn?t he?! I must have
+JOHN: Well, uh' not that I can recall. But he's here, isn't he?! I must have
 sent them at some point!
 
 BARRY: The postal system works in mysterious ways, boy!
 
-DRINKLE: Oh my? I think I?ve figured out what?s going on here. Unless I?m
-mistaken, I think Ike Nutana sent those letters? and the Prime Minister is lost!
+DRINKLE: Oh my? I think I've { I was a real perceptive fellow in my younger
+days dontcha know } figured out what's going on here. Unless I'm
+mistaken, I think Ike Nutana sent those letters- and the Prime Minister is lost!
 
-JOHN: And you?re sure that?s the Prime Minister? Of Canada?
+JOHN: And you're sure that's the Prime Minister? Of Canada?
 
-DRINKLE: Yes, Mr. Lake. Don?t you know what the Prime Minister looks like? He
+DRINKLE: Yes, Mr. Lake. Don't you know what the Prime Minister looks like? He
 has such great hair!
 
-JOHN: Shut up Drinkle, you?re wasting time! We?ve landed the big one here! Fell
-right into our laps, but you know what? We?ve got to put that good old Saskatoon
-ingenuity to work here, and really wring this guy for all he?s worth!
+JOHN: Shut up Drinkle, you're wasting time! We've landed the big one here! Fell
+right into our laps, but you know what? We've got to put that good old Saskatoon
+ingenuity to work here, and really _wring_ this guy for all he's worth!
 
-DRINKLE: Mr. Lake! You?re talking about the Prime Minister!
+DRINKLE: Mr. Lake! You're talking about the Prime Minister!
 
-JOHN: I know that, Drinkle! That?s been established! Think of the good this
+JOHN: I know that, Drinkle! That's been established! Think of the good this
 could do for our community! This could be our New York moment! This could put
 Saskatoon, Saskatoon on the map! 
 
@@ -969,33 +974,33 @@ seems to shock him)
 WILF: Oh, whoops! This keeps happening! (buttons up shirt)
 
 JOHN: Mr. Prime Minister! Good to have you back! Now, my associate informs me
-that there?s been a little tiny bit of a mix-up here. You might have wound up in
+that there's been a little tiny bit of a mix-up here. You might have wound up in
 the right town, completely on accident. See, this lovely, pristine temperance
 colony you see before you is none other than Saskatoon! And I have the pleasure
 of being its mayor, John Lake! (they shake hands) And these are Barrabus
-Riversdale and John Drinkle, two of Saskatoon?s most upstanding citizens!
+Riversdale and John Drinkle, two of Saskatoon's most upstanding citizens!
 
-WILF: Oh! Well, it?s certainly a pleasure to make your acquaintance, but you
+WILF: Oh! Well, it's certainly a pleasure to make your acquaintance, but you
 see, I actually arrived to meet with a Mr. Ike Nutana.
 
 JOHN: Ike Nutana! That drunk?! That con artist?! What could possibly possess you
 to want to visit a no-good thieving lowlife like Ike Nutana?
 
-WILF: Well, I have to say I?m shocked! I had heard only glowing reviews of Mr.
-Nutana?s character, and of his little temperance colony.
+WILF: Well, I have to say I'm shocked! I had heard only glowing reviews of Mr.
+Nutana's character, and of his little temperance colony.
 
-JOHN: From his own lying mouth, I?ll bet! Answer me one question, Wilf- how many
+JOHN: From his own lying mouth, I'll bet! Answer me one question, Wilf- how many
 temperance colonies do you know of with a thriving bar scene? 
 
-WILF: That?s a fair point. You might not believe this, but Mr. Nutana assured me
+WILF: That's a fair point. You might not believe this, but Mr. Nutana assured me
 that it was Saskatoon that had the drinking problem. But from a quick glance
-it?s easy to see that he got that quite backwards! You wouldn?t believe the
-number of drunks I ran into, just strolling down their so-called Temperance
-Street!
+it's easy to see that he got that quite backwards! You wouldn't believe the
+number of drunks I ran into, { <- funny! } just strolling down their so-called 
+Temperance Street!
 
 BARRY: Disgraceful!
 
-JOHN: So, Mr. Wilfrid. It looks like we?ve got ourselves into a real dilly of a
+JOHN: So, Mr. Wilfrid. It looks like we've got ourselves into a real dilly of a
 pickle. That miserable pig-stealer Nutana got you ride the train all the way
 down here, only to find out that his temperance colony is a colony of lies! But,
 you know, every chocolate bar has a silver lining. Lucky for you, you?ve
@@ -1003,46 +1008,47 @@ wandered into the future New York City of Canada- good old Saskatoon, Saskatoon!
 I figure, so long as you?re making up new provinces, this little old colony
 might make a good capital!
 
-WILF: Well, that?s certainly a thought. Unfortunately, Ottawa has already
+WILF: Well, that's certainly a thought. Unfortunately, Ottawa has already
 decided to place the capital in Regina.
 
-JOHN: Regina?! Have you even been there? It?s like a strip-mall that never ends?
-and the name just sounds lewd! You want to put that on maps? In our children?s
-classrooms?
+JOHN: Regina?! Have you even been there? It's like a strip-mall that never ends!
+and the name { - it } just sounds lewd! You want to put that on maps? 
+In our children's classrooms?
 
-WILF: Sorry John, that definitely was not my call to make. I?ll tell you what
+WILF: Sorry John, that definitely was not my call to make. I'll tell you what
 though. When Ike Nutana and I were talking, he was hoping that Nutana could be
-the home of Saskatchewan?s first university. Considering our situation, perhaps
+the home of Saskatchewan's first university. Considering our situation, perhaps
 Saskatoon would be a better location for our seat of higher learning.
 
-BARRY: You?re darn tootin, Wilfie boy! I think you?ll find that Saskatoon has a
-rich intellectual community. And ain?t nobody reads more books around here than
+BARRY: You're darn tootin, Wilfie boy { Come up with different but equally
+informal name } ! I think you'll find that Saskatoon has a
+rich intellectual community. And ain't nobody reads more books around here than
 old Blind Barry!
 
-JOHN: It?s true, Mr. Prime Minister. And we?d be super-duper honoured to start
+JOHN: It's true, Mr. Prime Minister. And we'd be super-duper honoured to start
 up your university here.
 
 WILF: Perfect. Now, this may seem strange, but when I offered Mr. Nutana the
 university he was very adamant that I bring him an engraved cornerstone to
-commemorate the occasion. This thing must weigh two tons or more, and I?ve had
-to haul it all the way here from Ottawa. It?s still sitting in the railyard.
+commemorate the occasion. This thing must weigh two tons or more, and I've had
+to haul it all the way here from Ottawa. It's still sitting in the railyard.
 Would you mind putting it to use when you begin construction?
 
 JOHN: A two-ton, engraved cornerstone? God, Nutana is such a loser. Yeah sure,
-we?ll make sure to pick up that rock for you. In the meantime, let me give you a
+we'll make sure to pick up that rock for you. In the meantime, let me give you a
 tour around town. 
 
 (DIEF runs into WILF)
 
-DIEF: Oh, sorry sir! I was just delivering these? um, newspapers. I didn?t see
+DIEF: Oh, sorry sir! I was just delivering these- um, newspapers. I didn't see
 you there!
 
-WILF: Oh, no worries young man! Sunny ways! It?s good to see young people like
-you, out doing good, honest work.
+WILF: Oh, no worries young man! Sunny ways! It's good to see young people like
+you, out doing good, honest work. { <- Joke! }
 
 DIEF: Geez, thanks mister!
 
-DRINKLE: Young John, did you know the man you?re speaking to is the Prime
+DRINKLE: Young John, did you know the man you're speaking to is the Prime
 Minister of Canada?
 
 DIEF: Golly! No way! That sounds like an awful big job!
@@ -1050,34 +1056,34 @@ DIEF: Golly! No way! That sounds like an awful big job!
 WILF: Oh, it certainly is. Perhaps a bit more than being a paperboy, but I
 started out just the same as you.
 
-DIEF: Really? Do you think I could be Prime Minister one day too? I?m just a
+DIEF: Really? Do you think I could be Prime Minister one day too? I'm just a
 kid!
 
-WILF: If you put your mind to it, I?m sure you could do anything you?d like.
+WILF: If you put your mind to it, I'm sure you could do anything you'd like.
 
 DIEF: Wowzers! Thanks Mr. Laurier! I suppose I really should get back to work
 then!
 
 WILF: Certainly! Mr. Lake, how about that tour? (JOHN and WILF walk offstage)
 
-BARRY: Alright now sonny, where?s that liquor I had you smuggle for me?
+BARRY: Alright now sonny, where's that liquor I had you smuggle for me?
 
 DIEF: Right here, Mr. Riversdale! (pulls out bottle from under newspapers)
 
-BARRY: There?s a good boy!
+BARRY: There's a good boy!
 
-DIEF: Mr. Riversdale, you sure know a lot about the future. Do you think it?s
+DIEF: Mr. Riversdale, you sure know a lot about the future. Do you think it's
 true what Mr. Laurier said? Could I be Prime Minister someday?
 
 BARRY: Well, I don?t see why not, Young John! But then again, I don?t see much!
 
 DIEF: Golly! (skips away happily)
 
-BARRY: (turns to audience) Now, I wouldn?t be surprised if that young John
+BARRY: (turns to audience) Now, I wouldn't be surprised if that young John
 Diefenbaker wound up being Prime Minister after all!
 
-(The sound of a loon call, and an announcer voice offstage: ?A proud part of our
-Canadian Heritage?)
+(The sound of a loon call, and an announcer voice offstage: 'A proud part of our
+Canadian Heritage')
 
 ################################################################################
 
