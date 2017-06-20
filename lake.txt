@@ -858,7 +858,8 @@ river that is just begging for a university to be built on it. I would recommend
 bringing with you a very large, engraved cornerstone with which we can begin
 construction. We will make a whole afternoon of it. My wife Eileen will do up
 some baking. Best wishes, Mayor Ike Nutana. P.S. I have been to Regina and I do
-not think you should make it the capital. Have you seen it before?
+ { I. Have. Been. To... } not think you should make it the capital. Have you 
+seen it before?
 
 WILF: { Thinking of what how to respond to this weirdo. } Greetings, Mayor 
 Nutana. If it's not too much trouble, 'Wilfred' is still
@@ -879,28 +880,31 @@ drunks. Safe travels! Your buddy, Ike.
 ################################################################################
 
 SCENE 7: WILF arrives in Nutana outside the Victoria Bar. BARRY is sitting
-beside the door, very drunk and nursing a bottle.
+beside the door { in a chair }, very drunk and nursing a bottle.
 
+{ Enter from Stage left - Peek around the scene, notice Barry - turn to
+audience, and proceed } 
 WILF: Excuse me sir! I've just gotten off of my train- somehow we seem to have
 arrived four hours early! I was wondering if you could point me in the right
 direction?
 
-BARRY: (chuckles) Well, I suppose that all depends on what you're trying to
+BARRY: (chuckles) { Still sitting } Well, I suppose that all depends on what you're trying to
 find! The bar's right here, mister!
 
-WILF: Ah, I see. I was warned about this area. I'm looking for the temperance
+WILF: Ah, I see. I was warned about this area.  { Looking concerned } I'm 
+looking for the temperance
 colony, which should be just across the river. I'm to have a meeting with their
 mayor.
 
-BARRY: You don't say?! Why, it so happens that I'm a close personal friend of
-the mayor! You just stick with me, and old Blind Barry will show you the way!
+BARRY: You don't say?! { Getting up here } Why, it so happens that I'm a close 
+personal friend of the mayor! You just stick with me, and old Blind Barry will show you the way!
 
 WILF: Oh, well that's very... thoughtful of you. Are you sure you'll be able to
 um... see the way, Blind Barry?
 
 BARRY: Well, I may be blind, but I've got a keen sense of direction!
 
-(BARRY and WILF walk across the river to Saskatoon, and knock on JOHN?s door.)
+(BARRY and WILF walk across the river to Saskatoon, and knock on JOHN's door.)
 
 JOHN: What now?!
 
