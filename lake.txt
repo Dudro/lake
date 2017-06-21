@@ -92,17 +92,20 @@ making an impassioned speech about a new temperance colony in the Northwest
 Territories.
 
 { Ike is center-stage.  Eileen, Judith, Drinkle, and Dief stand stage left. }
+{ Eileen is stage-right of Ike }
 
 IKE: { Wrapping a gavel } Ladies and gentlemen, I, President Ike Nutana, call this meeting of the
-Toronto { Torana } Temperance Society to order. Thank you for joining us this fine morning,
+Toronto { Torana } Temperance Society to order. Thank you for joining us this 
+fine morning,
 as we gather to depart westward, to soberly find our fortunes in the uncharted
-wilderness of { epicly } Western Canada. Our train will be departing in one hour, at four
+wilderness of { epicly } Western Canada. Our train will be departing in one 
+hour, at four
 o'clock AM. Regrettably, it seems that one member of our flock has wandered
 further astray, and may not be with us to depart this morning. { Raising his
 hands to assure his flock } I don't believe a
 word of it - but some say he's taken to the drink once more!
 
-DIEF: (gasps hysterically, faints)
+DIEF: (gasps hysterically, faints) { backwards } 
 
 EILEEN: And good riddance! That no-good, whisky-sluggin' John Lake was tearing
 this temperance society apart! { To Judith and the crowd, and then to Ike }
@@ -146,7 +149,7 @@ EILEEN: { Stage left, appealing to John on his other side }
  Did you have that long night of sleep in a tub of whisky, John? Because
 it darn well smells like it!
 
-JOHN: Oh come on, Eileen! { crossing the podium } You know I live near a bar - 
+JOHN: Oh come on, Eileen! You know I live near a bar - 
 maybe someone spilled a little bit of a drink on me when I was walking over here.
 
 IKE: See Eileen? I guess we just had a little misunderstanding. { trying to
@@ -359,43 +362,43 @@ covered with a white sheet, and stands behind him.
 
 { Judith, Ike behind the podium, and Eileen from center-stage to right }
 IKE: Ladies and gentlemen, thank you for your courage in making this momentous
-journey West! There is much work to be done, but for now I would like take a
-moment to decide, together, upon a name for our beautiful colony! Do I hear any
+journey West! There is much work to be done, but for now I would like { to } take a
+moment to decide, _together_, upon a name for our beautiful colony! Do I hear any
 suggestions?
 
 JUDITH: (hand shoots up) { Strutting out to lecture the audience } 
  As Vice-President of the Temperance Society, I was
-thinking it might be nice to name the place after 'Damascus'. It?s one of the
+thinking it might be nice to name the place after 'Damascus'. It's one of the
 most ancient and beautiful cities in the world, and features heavily in the _Holy
 Bible_. We all know that Saint Paul experienced his great revelation and
 conversion to Christianity on the road to Damascus, and I thought it _might_ be
 nice to think that all of the colonists who journey out here might also find
-God?s salvation ?on the road to Damascus?.
+God?s salvation ?on the road to Damascus?
 
 (The other colonists praise this suggestion enthusiastically)
 
-IKE: (looking uncomfortable) Um, yes. That?s very nice Judith. Does anyone have
+IKE: (looking uncomfortable) Um, yes. That's very nice Judith. Does anyone have
 any, um, other suggestions?
 
 (silence from crowd)
 
 JUDITH: Did you have an idea, Ike?
 
-IKE: Well, um? I was thinking maybe we might name the town 'Nutana'. You know?
+IKE: Well, um - I was thinking maybe we might name the town 'Nutana'. You know?
 after my wife!
 
 (EILEEN slaps IKE on the arm)
 
-JUDITH: Well, and after yourself of course. You are President Nutana!
+JUDITH: Aaaand after yourself of course. You are President Nutana!
 
-EILEEN: Well, maybe he deserves it! Ike has done an awful lot for this society
+EILEEN: { Well } Maybe he deserves it! Ike has done an awful lot for this society
 over the past ten years! Maybe we should name the colony after him! 
 
 (mutters of unenthusiastic agreement)
 
-JUDITH: Well, why don?t we put it to a vote then? ?Damascus? or ?Nutana?!
+JUDITH: Why don't we put it to a vote then? 'Damascus' or 'Nutana'!
 
-IKE: Well, um? you see? I did already make the sign? (sheepishly unveils
+IKE: Well, you see - I did already make the sign? (sheepishly unveils
 ?Welcome to Nutana ? Nutana Shines!? sign.)
 
 DIEF crosses the river. John is standing on a stool, in front of soaking wet
@@ -429,6 +432,8 @@ Saskatoon, Saskatoon! Same as the province! Now go and make me a goddamn sign!
 
 DIEF crosses the river. IKE is seated at a desk with JUDITH standing over his
 shoulder.
+
+{ Dief next to the door, right of Judith }
 
 JUDITH: President Nutana. The colony appears to be doing well, but the new
 residents are getting confused now that we have more than one road through town.
